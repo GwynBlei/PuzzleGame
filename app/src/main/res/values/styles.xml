@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.PuzzleGame.Launcher">
+        <item name="android:windowBackground">@drawable/avd_anim_</item>
+    </style>
+</resources>
